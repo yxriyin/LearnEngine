@@ -1,0 +1,4 @@
+Debug
+.vs
+/bgfx/bgfx/examples/01-cubes/*.pdb
+win32_vs2017
